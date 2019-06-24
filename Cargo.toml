@@ -6,4 +6,6 @@ edition = "2018"
 
 [dependencies]
 sha1 = "0.6"
+steamy-vdf = "0.2"
+regex = "1.1"
 
